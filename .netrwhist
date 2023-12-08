@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/storage/restricted/bigdata/DSDE/cshih/resource/lung_ct_segmentatio_challenge_2017/manifest-1557326747206'
+let g:netrw_dirhist_2='/home/shihch3/.oh-my-bash'
